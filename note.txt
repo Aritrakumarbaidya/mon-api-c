@@ -1,3 +1,0 @@
-navigate
-.\venv\Scripts\activate
-$env:PYTHONIOENCODING="utf-8"; python bot.py
